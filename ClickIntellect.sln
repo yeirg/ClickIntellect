@@ -4,6 +4,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CI.Api", "CI.Api\CI.Api.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CI.Domain", "CI.Domain\CI.Domain.csproj", "{DF17F6D8-34C5-48B8-ACB2-E54B53B47C65}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CAA3B629-0790-4BD7-8EED-B0ACF21B649E}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		BrokenData.xlsx = BrokenData.xlsx
+		TestData.xlsx = TestData.xlsx
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
